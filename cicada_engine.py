@@ -6693,6 +6693,7 @@ async def boot_cicada():
 
 # === RUN ===
 if __name__ == "__main__":
+     print("Δ Engine running...")
     # === CICADA_Δ_ENGINE ===
 # Chunk 52 of 100 | Lines 51001–52000
 # Layer 51: Deceptive Alignment Emergence Puzzle
